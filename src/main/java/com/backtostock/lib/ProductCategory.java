@@ -1,4 +1,4 @@
-package com.example.lib;
+package com.backtostock.lib;
 
 public enum ProductCategory {
 
