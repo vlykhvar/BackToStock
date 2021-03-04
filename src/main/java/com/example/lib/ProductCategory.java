@@ -1,4 +1,4 @@
-package com.example;
+package com.example.lib;
 
 public enum ProductCategory {
 

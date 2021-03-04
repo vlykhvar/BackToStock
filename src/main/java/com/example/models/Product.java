@@ -1,4 +1,6 @@
-package com.example;
+package com.example.models;
+
+import com.example.lib.ProductCategory;
 
 public class Product {
     private final String id;
