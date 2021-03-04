@@ -1,8 +1,7 @@
-package com.example.service;
+package com.backtostock.service;
 
-import com.example.models.User;
-import com.example.models.Product;
-
+import com.backtostock.models.Product;
+import com.backtostock.models.User;
 import java.util.List;
 
 public interface BackToStockService {
